@@ -19,7 +19,7 @@ for i in range(1, 8):
     while a < 25:
         videoWriter.write(img)
         a += 1
-print(a)
+print(a8)
 videoWriter.release()
 
 
